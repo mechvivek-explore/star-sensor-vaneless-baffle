@@ -1,0 +1,4 @@
+comparison,P_24deg_straight,P_24deg_curved,P_28deg_straight,P_28deg_curved,delta_E_28deg,theta_SR_straight_deg,theta_SR_curved_deg
+G1→G3 (outward-curved),2693,1748,709,254,458,30.68,29.45
+G2→G4 (outward-curved),2678,1449,674,107,567,30.22,28.8
+G1→G5 (inward-curved),2693,2929,709,884,-175,30.68,30.86
