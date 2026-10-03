@@ -1,0 +1,6 @@
+geometry_id,geometry_name,Re_mm,a_mm_per_mm,b_mm_per_mm2,Rp_mm,L_mm
+G1,16° Straight Conical Baffle,38.674538575880788,0.28674538575880792,0.0,10.0,100.0
+G2,15° Straight Conical Baffle,36.794919243112268,0.2679491924311227,0.0,10.0,100.0
+G3,Outward-Curved Quadratic Baffle – Large Entrance,38.674538575880788,0.39,-0.0010325461424119211,10.0,100.0
+G4,Outward-Curved Quadratic Baffle – Minimum Entrance,36.794919243112268,0.39,-0.0012205080756887731,10.0,100.0
+G5,Inward-Curved Quadratic Baffle – Large Entrance,38.674538575880788,0.2679491924311227,0.00018796193327685201,10.0,100.0
