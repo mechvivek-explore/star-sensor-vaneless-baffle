@@ -1,0 +1,25 @@
+FINAL REPOSITORY INTEGRITY AUDIT — RS-01
+
+Source package:
+star-sensor-vaneless-baffle_AUDITED_CANDIDATE.zip
+
+Verified:
+- full_nsrt_results.csv: 610 data rows + header
+- 5 geometry IDs: G1–G5
+- 122 sampled angles per geometry
+- P + E + T50plus + X = launched for every archived row
+- X = 0 for every archived row
+- Key manuscript values include G1/G3 P(24°)=2693/1748 and P(28°)=709/254
+- No __pycache__ files are part of the intended repository release
+- No duplicate exploratory RS/RA CSV files are included in the intended release
+
+SHA-256:
+full_nsrt_results.csv  78ec0aa7bfafe23b7dec9c82e6b872e1d42a1db7d33ce9372efc59f9c6e75f41
+nsrt_3d.py             7a84ea97aed7556ba989d2a91ff4e3d64d741f654d9e4a05b70f944390ce1018
+run_analysis.py        72e0dfb61ea1cede7597b428f2be3cca0b4179f87d1c84a6f8973ae4b0eee20f
+verify_results.py      db168f347c724c235744562906f9df2c32e93f367d453d2bd9e7563b37c357e0
+geometry_definitions.csv 9835de1783045fb0ae18f461ce8fcb7deea76185e411c687f7120565c4368428
+key_results.csv        7358c1d44c2a5f5ad5be39321f39345ab43cd55cbcfcde504cf8581798e36363
+
+Release status:
+The text/data/reproducibility core is assembled. Binary publication figures remain to be transferred to GitHub before the repository is frozen.
