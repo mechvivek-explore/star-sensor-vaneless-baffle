@@ -36,8 +36,14 @@ For the investigated geometries, outward-curved G3/G4 profiles reduce geometrica
 ## Data for further research
 
 - `data/geometry_definitions.csv` — G1–G5 parameters.
-- `data/full_nsrt_results.csv` — consolidated 0–85° NSRT results.
+- `data/full_nsrt_results.csv` — complete authoritative 0–85° NSRT results (610 rows).
 - `data/key_results.csv` — compact comparisons used in the paper.
+
+## Publication figures
+
+- `figures/01_baffle_geometries.png` — G1–G5 geometry profiles.
+- `figures/02_pupil_coupling_vs_angle.png` — full angular pupil-coupling result.
+- `figures/03_representative_ray_paths.png` — representative reflected-ray paths.
 
 The calculations assume ideal specular reflection and report geometrical pupil coupling. They are not PST/NPST, coating-BRDF, detector-irradiance, or radiometric predictions.
 
@@ -54,5 +60,7 @@ Expected result:
 ## Frozen release and reuse note
 
 This repository is intended to be a **frozen publication archive**. The published version is not intended for routine editing. Researchers may download or clone the archive for independent review, verification and further development at their end.
+
+Please cite the accompanying publication when using the scientific results. Citation metadata is provided in `CITATION.cff`.
 
 No reuse licence is asserted here. Any licence or public-reuse permission should be added only after confirming the applicable organisational/publication/IP requirements.
