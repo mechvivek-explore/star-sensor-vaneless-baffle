@@ -1,0 +1,12 @@
+{
+  "repository": "mechvivek-explore/star-sensor-vaneless-baffle",
+  "dataset": "data/full_nsrt_results.csv",
+  "dataset_rows": 610,
+  "geometries": ["G1","G2","G3","G4","G5"],
+  "angles_per_geometry": 122,
+  "launched_rays": {"G1":21851,"G2":19779,"G3":21851,"G4":19779,"G5":21851},
+  "maximum_reflections": 50,
+  "reflection_model": "ideal_specular",
+  "phase_rad": 0.37,
+  "dataset_sha256": "78ec0aa7bfafe23b7dec9c82e6b872e1d42a1db7d33ce9372efc59f9c6e75f41"
+}
