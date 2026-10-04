@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Continuous Vaneless Reflective Baffle for a Star Sensor"
+message: "If you use this repository, please cite the accompanying publication."
+type: software
+authors:
+  - family-names: Shukla
+    given-names: Vivek
+    email: "viveks@ursc.gov.in"
+repository-code: "https://github.com/mechvivek-explore/star-sensor-vaneless-baffle"
+url: "https://github.com/mechvivek-explore/star-sensor-vaneless-baffle"
+keywords:
+  - star sensor
+  - stray light
+  - vaneless baffle
+  - non-sequential ray tracing
+  - NSRT
+  - reflective baffle
